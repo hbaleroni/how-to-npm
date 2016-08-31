@@ -1,0 +1,26 @@
+{
+  "name": "@hbaleroni/how-to-npm",
+  "version": "1.0.0",
+  "description": "This is project runs through the how-to-npm NodeSchool module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbaleroni/how-to-npm.git"
+  },
+  "keywords": [
+    "NodeSchool",
+    "how-to-npm"
+  ],
+  "author": "Henrique Baleroni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbaleroni/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/hbaleroni/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
