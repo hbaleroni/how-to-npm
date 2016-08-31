@@ -1,6 +1,6 @@
 {
   "name": "@hbaleroni/how-to-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is project runs through the how-to-npm NodeSchool module",
   "main": "index.js",
   "scripts": {
